@@ -1,5 +1,5 @@
 # mini-b
-V0 tool head
+Toolhead for [Voron Design v0.1](https://vorondesign.com/voron0.1)
 
 **Still in early dev. User at own risk.**
 
