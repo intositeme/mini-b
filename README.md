@@ -16,7 +16,6 @@ Toolhead for [Voron Design v0.1](https://vorondesign.com/voron0.1)
 Will loose ~5mm in X/Y travel. Please check this on your printer.
 
 Known Issues, I might/might not fix
-- Fan ducts angle is pretty steep and hard to print properly (i just sand it down for cosmetic sake)
+- ~~Fan ducts angle is pretty steep and hard to print properly (i just sand it down for cosmetic sake)~~
 - 5015 front inlet cutout might not be centered to the fan, though it is in cad, could be due to GDStime fans being different?
-- There might be a small gap in some corners of the print (new to CAD)
-- 
+- ~~There might be a small gap in some corners of the print (new to CAD)~~
