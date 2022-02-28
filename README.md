@@ -7,13 +7,13 @@ Toolhead for [Voron Design v0.1](https://vorondesign.com/voron0.1)
 <img src="https://user-images.githubusercontent.com/11328522/154849858-c1b2f472-fc35-4eb4-90dc-ad13413cff0b.png" height=320>
 
 
-**4010 Heater Fan** with **5015 parts blower fan**. Requires **different X-carriage** included. Should accept LGX lite with mounting plate (untested). Only tested with [Kami extruder](https://github.com/intositeme/kami-mini) using the 'offset-hole' front plate.
+**4010 Heater Fan** with **5015 parts blower fan**. Requires **different X-carriage** included. Accepts LGX lite with mounting plate (untested). Tested with [Kami extruder](https://github.com/intositeme/kami-mini).
 
 **Only for Dragon** hotend or hotends with similar bolting pattern. 2x Hotend Holder.stl is required, these are just to prevent the hotend from twisting when changing nozzles. 
 
 **Note:** 4010 heater fan, the toolhead mounting screws passed 2 of the fan's holes, GDStime 4010 fans have a recessed hole which needs to be filled in to be flushed, if not the cowling plastic will break when tightened down. I used washers, printed part would do fine.
 
-Will loose ~5mm in X/Y travel. Please check this on your printer.
+Initially thought toolhead will loose ~5mm in X/Y travel. Please check this on your printer, I some how managed to get more travel, ~ 3mm in X and 2mm in Y.
 
 Known Issues, I might/might not fix
 - ~~Fan ducts angle is pretty steep and hard to print properly (i just sand it down for cosmetic sake)~~
