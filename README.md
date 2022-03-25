@@ -19,3 +19,14 @@ Known Issues, I might/might not fix
 - ~~Fan ducts angle is pretty steep and hard to print properly (i just sand it down for cosmetic sake)~~
 - 5015 front inlet cutout might not be centered to the fan, though it is in cad, could be due to GDStime fans being different?
 - ~~There might be a small gap in some corners of the print (new to CAD)~~
+
+
+## Xcarriage
+
+Added in X-carriage with different variations. Initial carriage was working with a different toolhead, but seems to be breaking with the added weight of this toolhead. 
+- `X_Carriage - for v2.stl` - Standard to use with `lgx-mount.stl`
+
+These following x-carriages requires the `lgx-mount-recessed.stl` and only the LGX-lite extruder
+- `X_Carriage-extra beef.stl` - Extra thick +3mm 
+- `X_Carriage-extra -extra beef.stl` - 5.5mm thick, requires 2 m3x4.2(diameter)x5 heat insert & 25mm BTS screw, screws go in from the front.
+- `X_Carriage-extra -extra beef - mgn9.stl` - Used with mgn9 rails. Requires 2 m3x4.2(diameter)x5 heat insert & 30mm BTS screw, screws goes in from the back, ensure when tighten, the screws does not extend past the front and cause toolhead mounting issues.
