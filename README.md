@@ -9,7 +9,7 @@ Toolhead for [Voron Design v0.1](https://vorondesign.com/voron0.1)
 
 **4010 Heater Fan** with **5015 parts blower fan**. Requires **different X-carriage** included. Accepts LGX lite with mounting plate (untested). Tested with [Kami extruder](https://github.com/intositeme/kami-mini).
 
-Works with both Dragon & Mosquito hotends with *different* stls specific for each. Dragon's cowling is 2mm thicker thus will reduce Y by 2mm vs the Mosquito hotend.
+Works with both Dragon & Mosquito hotends with **different** stls specific for each. Dragon's cowling is 2mm thicker thus will reduce Y by 2mm vs the Mosquito hotend.
 
 **Note:** 4010 heater fan, the toolhead mounting screws passed 2 of the fan's holes, GDStime 4010 fans have a recessed hole which needs to be filled in to be flushed, if not the cowling plastic will break when tightened down. I used washers, printed part would do fine.
 
